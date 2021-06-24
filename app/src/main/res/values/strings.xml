@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cinephilia</string>
+    <string name="api_key">37a00b65a57d661912156210c9611310</string>
+    <string name="hamburger_icon">Hamburger Icon</string>
+    <string name="movies">Movies</string>
+    <string name="now_showing">Now Showing</string>
+    <string name="slide_show_image">Popular Movies Image</string>
+    <string name="trending_movies_image">Trending Movies Image</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="play_movie">Play Movie</string>
+    <string name="book_now">BOOK NOW</string>
+    <string name="synopsis">Synopsis</string>
+</resources>
